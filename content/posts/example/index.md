@@ -1,45 +1,44 @@
 +++
-title = "Example Post"
-date = "2023-01-01"
+title = "Commonalities with the Confederation"
+date = "2023-09-13"
 draft = false
-pinned = false
-tags = [ "Lilo", "Example" ]
+pinned = true
+tags = [ "Organization" ]
 image = "/img/default-image.jpg"
-description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
+description = "A short story about e-id-genossenschaft and the swiss confederation."
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
 
 {{<lead>}}
-In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen.
+The swiss confederation and the e-id-genossenschaft have a few things in common. Democracy, and perhaps the grassroots. But rules have changed.
 {{</lead>}}
 
-Tipp: Um diesen Blogartikel zu behalten, ohne ihn zu löschen, kann man den **Entwurfsmodus** einschalten.
+# It's not a cooperative, but an association
 
-# Überschrift 1
+An association with 8 members, one of them from the Federation.T So sieht die grösste Überschrift aus (H1).
 
-So sieht die grösste Überschrift aus (H1).
 
-## Überschrift 2
+
+## Democracy
 
 Dies ist die Überschrift 2 (H2).
 
-### Überschrift 3
+# Roles:
 
-Die Überschrift 3 ist nicht mehr im Menu verfügbar. Wenn man sie verwenden will, muss man in den `Markdown`-Modus wechseln und dort eine Überschrift mit drei Hastags einleiten: `### Überschrift 3`
+## Core member (7+1)
 
-#### Überschrift 4
+## Donaters
 
-Auch Überschrift 4 muss im `Markdown`-Modus erstellt werden: `#### Überschrift 4`
+## Investors
 
-## Weitere Textformatierungen
+# Core Rules
 
-Am besten einfach alle Formatierungsmöglichkeiten in der Toolbar von `Inhalt` mal ausprobieren.
+## Transparency
 
-### Fett und Kursiv
+## Reliability
 
-Natürlich gibt es auch **fett** und _kursiv_.
 
-### Links
+<
 
 [So können Links angegeben werden](https://www.lilo.blog). Wenn man in den `Markdown`-Modus wechselt, sieht man auch, welcher Link hinterlegt worden ist.
 
@@ -161,4 +160,4 @@ sun1 === sun2;
 
 ## Spass haben
 
-😀 Viel Spass mit deinem Blog!
+😀 Viel Spass mit deinem Blog!>
