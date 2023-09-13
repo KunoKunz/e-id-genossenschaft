@@ -1,0 +1,58 @@
+languageCode = "de"
+defaultContentLanguage = "de"
+
+removePathAccents = true
+buildFuture = true
+paginatePath = "page"
+disableKinds = ["RSS"]
+pygmentsCodefences = true
+copyright = "2023 by Lilo.blog - Creative Commons Attribution-ShareAlike 4.0"
+
+[params]
+blogName = "Lilo.blog"
+blogVersion = "3.1.0"
+blogUrl = "https://www.lilo.blog"
+paginateHome = 12
+paginateTags = 36
+
+[permalinks]
+posts = "/:filename/"
+pages = "/:filename/"
+
+[taxonomies]
+tag = "tags"
+
+[outputs]
+home = ["HTML", "ATOM"]
+term = ["HTML", "ATOM"]
+
+[mediaTypes."application/atom+xml"]
+suffixes = ["xml"]
+
+[outputFormats.ATOM]
+mediaType = "application/atom+xml"
+baseName = "index"
+isPlainText = false
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[frontmatter]
+lastmod = ['lastmod', ':git', ':fileModTime', 'date', 'publishDate']
+
+[related]
+includeNewer = true
+threshold = 50
+toLower = true
+[[related.indices]]
+name = "tags"
+weight = 80
+[[related.indices]]
+name = "date"
+weight = 60
+
+[privacy]
+[privacy.vimeo]
+enableDNT = true
+[privacy.youtube]
+privacyEnhanced = true
