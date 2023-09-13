@@ -1,3 +1,7 @@
+# About E-ID-Genossenenschaft.ch
+I chose Gitlab and the Blog Template for reasons of convenience. Feel free to join and determine where the journey will lead according to new rules and genuine self-determination.
+
+
 # Blog Template powered by 💜 [Lilo.page](https://www.lilo.page)
 
 With this blog template it's very easy to create your own [Lilo page](https://www.lilo.page). This is what you get:
