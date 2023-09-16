@@ -1,13 +1,9 @@
 +++
 title = "E-ID-Genossenschaft"
 draft = false
-description = ""
-image = "/img/default-author.jpg"
+image = "fingerprint.png"
+description = "Open Innovation Community für die neue E-ID. "
 +++
-![](/img/default-author.jpg)
+![](fingerprint.png)
 
-## My Name
-
-mail@example.org
-
-Here should be some info about me...
+## E-ID-Genossenschaft
