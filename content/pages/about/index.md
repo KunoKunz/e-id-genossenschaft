@@ -1,5 +1,5 @@
 +++
-title = "About me"
+title = "E-ID-Genossenschaft"
 draft = false
 description = ""
 image = "/img/default-author.jpg"
