@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "My Name"
+name = "E-ID Community"
 image = "/img/default-author.jpg"
 url = "/about/"
 +++
